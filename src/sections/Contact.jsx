@@ -54,7 +54,7 @@ function Contact() {
 
     setLoading(true)
     try {
-      await addDoc(collection(db, 'contact-messages'), {
+      await addDoc(collection(db, 'portfolio-contact'), {
         name:formData.name,
         email:formData.email,
         message:formData.message,
