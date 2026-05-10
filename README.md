@@ -1,4 +1,4 @@
-# Hiba Portfolio
+# PORTFOLIO
 
 A modern and cinematic developer portfolio built with React, Tailwind CSS, Framer Motion, Firebase, and Lenis smooth scrolling.
 
