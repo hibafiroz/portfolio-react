@@ -73,4 +73,4 @@ src/
 
 ## Author
 
-Hiba
+Hiba Firoz
