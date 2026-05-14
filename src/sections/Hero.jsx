@@ -128,7 +128,7 @@ function Hero() {
 
   <div className="w-20 h-[4px] rounded-full bg-gradient-to-r from-orange-400 to-orange-200 mb-8 shadow-[0_0_20px_rgba(249,115,22,0.5)]" />
 
-  <h3 className="text-4xl font-bold leading-[1.1] mb-5">
+  <h3 className="text-3xl font-bold leading-[1.1] mb-5">
     Focused on
     <span className="block mt-2 text-orange-400">
       MERN Stack

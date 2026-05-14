@@ -40,6 +40,7 @@ const skillCategories = [
       "VS Code",
       "Vite",
       "MongoDB Atlas",
+      "Cloudinary",
       "Vercel"
     ],
   },
@@ -86,10 +87,7 @@ function Skills() {
               key={index}
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
-              transition={{
-                duration: 0.7,
-                delay: index * 0.1,
-              }}
+              transition={{ duration: 0.2 }}
               viewport={{ once: true }}
               whileHover={{ y: -6 }}
               className="group relative rounded-[30px] border border-white/10 bg-white/[0.03] backdrop-blur-xl p-8 overflow-hidden transition"

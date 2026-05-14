@@ -19,7 +19,7 @@ function Navbar() {
             animate={{ opacity: 1, y: 0 }}
             className="text-lg font-semibold tracking-wide"
           >
-            HIBA
+            HIBA FIROZ
           </motion.h2>
 
           {/* DESKTOP NAV */}
